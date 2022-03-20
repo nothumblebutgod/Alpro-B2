@@ -19,6 +19,7 @@ int main(){
     scanf("%d",&a);
     printf("Masukkan jumlah gaji : ");
     scanf("%d", &g);
+    
     if(a>= 0 && g>0){
         if(a<3){
             t = a * 10 * g / 100;
