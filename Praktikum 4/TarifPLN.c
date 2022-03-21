@@ -29,7 +29,7 @@ int main(){
             printf("Biayanya =%d", daya*1000 + (daya*1000*10/100));
         }
         else{
-            printf("Angka pakai harus diatas 0 KWH");
+            printf("Jumlah daya harus diatas 0 KWH");
         }
     }
     else{
@@ -43,7 +43,7 @@ int main(){
             printf("Biayanya =%d", daya*2000 + (daya*2000*10/100));
         }
         else{
-            printf("Angka pakai harus diatas 0 KWH");
+            printf("Jumlah daya harus diatas 0 KWH");
         }
     }
     return 0;
