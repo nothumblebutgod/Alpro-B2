@@ -3,6 +3,7 @@
 // Tanggal      : 27 Maret 2022
 // Nama Program : CekSempurna.c
 // Deskripsi    : Mengecek sebuah bilangan integer sembarang N (N>0) yang dimasukan melalui keyboard termasuk bilangan sempurna atau bukan.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
