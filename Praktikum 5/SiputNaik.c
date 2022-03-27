@@ -5,7 +5,6 @@
 // Deskripsi    : Mengetahui berapa hari waktu yang dibutuhkan oleh seekor siput untuk mencapai ketinggin N meter
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main(){
     // Kamus
