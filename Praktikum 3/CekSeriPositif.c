@@ -1,6 +1,6 @@
 /*
 // Nama         : Ananda Rizky Pratama
-// NIM          : 24060121130089
+// NIM          : 24060121140118
 // Tanggal      : 13 Maret 2022
 // Nama Program : CekSeriPositif.c
 /* Deskripsi    : menampilkan total dari 3 tahanan bilangan yang tidak boleh bernilai negatif
