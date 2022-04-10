@@ -1,6 +1,6 @@
 /*
 // Nama         : Ananda Rizky Pratama
-// NIM          : 24060121130089
+// NIM          : 24060121140118
 // Tanggal      : 12 Maret 2022
 // Nama Program : Cek_Bulan.c
 /* Deskripsi    : menampilkan nama Bulan sesuai dengan inputan pada nomor 1 sampai 7
