@@ -26,6 +26,7 @@ void countSort(int array[], int N){
     }
 }
 
+//program utama
 int main(){
     // Kamus
     int array[100], n, i, j;
