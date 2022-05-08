@@ -37,11 +37,9 @@ int main()
     }
     InsertionSort(array, n);
     printf("Hasil sorting insertion sort : ");
-    for (i = 0; i < n; i++)
-    {
+    for (i = 0; i < n; i++){
         printf("%d ", array[i]);
     }
     printf("\n");
-
     return 0;
 }
