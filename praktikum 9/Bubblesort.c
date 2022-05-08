@@ -7,17 +7,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void bubblesorting(int T[], int N){
+void bubblesorting(int array[], int N){
     //Kamus Lokal
     int i, j, temp;
     //Algoritma
     for (i = 0; i < N; i++){
         for (j = i+1; j < N; j++)
             {
-            if (T[i] > T[j]){
-                temp = T[i];
-                T[i] = T[j];
-                T[j] = temp;
+            if (array[i] > array[j]){
+                temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
             }
         }
     }
