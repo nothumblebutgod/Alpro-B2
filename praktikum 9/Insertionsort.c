@@ -22,6 +22,7 @@ void InsertionSort(int array[], int n)
     }
 }
 
+//program utama
 int main()
 {
     //Kamus
