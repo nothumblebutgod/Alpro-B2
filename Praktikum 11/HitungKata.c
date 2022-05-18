@@ -1,6 +1,6 @@
 //Nama         : Ananda Rizky Pratama
 //NIM          : 24060121140118
-//Tanggal      : 07 Mei 2022
+//Tanggal      : 17 Mei 2022
 //Nama Program : HitungKata.c
 //Deskripsi    : Membuat program mesin abstrak untuk menghitung banyaknya kata yang ada pada pita
 
